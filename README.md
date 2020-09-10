@@ -3,7 +3,7 @@
 I am Varun Joshi a computer science plus business analytics sophomore at the University of Texas at Dallas passionate in the field of Data Science and AI/ML. I have been programming for 5 years now and am driven by the power to deliver products using computer science and programming. 
 
 🌱 I’m currently learning Data Science and ML fundamentals. <br>
-👯 I’m looking to collaborate on projects that involve significant use of backend programming and data science <br>
+👯 I’m looking to collaborate on projects that involve significant use of backend programming and data science and Hackathon projects <br>
 💬 Ask me about Java, Springboot, Flutter, Dart, Python, and just talk to me about anything in tech in general. I really love opening my eyes to new things <br>
 📫 How to reach me: Email me at varun.joshi.2016.go@gmail.com or reach out to me on LinkedIn: https://www.linkedin.com/in/varunjos/ <br>
 ⚡ Fun fact: A lot of these cool and complex data science algorithms are built on simple concepts like graphs, trees, etc. <br>
