@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Varun Joshi a computer science plus business analytics sophomore at the University of Texas at Dallas passionate in the field of Data Science and AI/ML. I have been programming for 6 years now and am driven by the power to deliver products using computer science and programming. <br>
+I am Varun Joshi a computer science plus business analytics Senior at the University of Texas at Dallas passionate in the field of Data Science and AI/ML. I have been programming for 6 years now and am driven by the power to deliver products using computer science and programming. <br>
 
 Have experience and worked in a professional setting in Data Science and ML Modelling, Python, Java, Pandas/Numpy/Sklearn, Spark, AutoML, PyTorch, Spacy, Tensorflow, MySQL, Git, Linux, Figma, Pynecone, Flask, Streamlit, Springboot, Elasticsearch, AWS and Firebase, API Development, 
 
