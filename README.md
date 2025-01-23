@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-I am Varun Joshi a Data Scientist working at American Express. I am a new grad from UT Dallas and I have been programming for 6 years now and have a keen interest in building AI-driven products that help us. <br>
+I am Varun Joshi, a Machine Learning Engineer working at American Express. I am a new grad from UT Dallas and I have been programming for 6 years now and have a keen interest in building AI-driven products that help us. <br>
 I have worked in an academic and professional setting in Data Science and ML Modelling, Python, Java, Pandas/Numpy/Sklearn, Spark, AutoML, PyTorch, Spacy, Tensorflow, MySQL, Git, Linux, Figma, Pinecone, Flask, Streamlit, Springboot, Elasticsearch, AWS and Firebase, and API Development.
 
 
